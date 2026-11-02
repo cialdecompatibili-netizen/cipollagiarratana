@@ -2,33 +2,120 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Esempio",
-      "id": "esempio",
-      "icona": "🛍️",
+      "nome": "Semi",
+      "id": "semi",
+      "icona": "🧅",
       "tr": {
         "en": {
-          "nome": "Example"
+          "nome": "Seeds"
+        }
+      }
+    },
+    {
+      "nome": "Secchi e conservati",
+      "id": "secchi",
+      "icona": "🧅",
+      "tr": {
+        "en": {
+          "nome": "Dried and preserved"
+        }
+      }
+    },
+    {
+      "nome": "Freschi",
+      "id": "freschi",
+      "icona": "🧅",
+      "tr": {
+        "en": {
+          "nome": "Fresh"
+        }
+      }
+    },
+    {
+      "nome": "Libri e guide",
+      "id": "libri",
+      "icona": "🧅",
+      "tr": {
+        "en": {
+          "nome": "Books and guides"
         }
       }
     }
   ],
   "prodotti": [
     {
-      "tipo": "digitale",
-      "id": "prodotto-esempio",
-      "nome": "Prodotto di esempio",
-      "categoria": "esempio",
-      "prezzo_centesimi": 1000,
-      "descrizione": "Descrizione breve del prodotto di esempio.",
-      "descrizione_completa": "Descrizione completa del prodotto.\nOgni riga diventa un paragrafo.",
+      "tipo": "fisico",
+      "id": "semi-1",
+      "nome": "Semi (da definire)",
+      "categoria": "semi",
+      "prezzo_centesimi": 0,
+      "descrizione": "Bustina di semi da coltivare. Scheda da completare.",
+      "descrizione_completa": "Bustina di semi da coltivare. Scheda da completare.",
       "immagine": "",
-      "icona": "🛍️",
-      "visibile": true,
+      "icona": "🧅",
+      "visibile": false,
       "tr": {
         "en": {
-          "nome": "Example product",
-          "descrizione": "Short description of the example product.",
-          "descrizione_completa": "Full description of the product.\nEach line becomes a paragraph."
+          "nome": "Seeds (to be defined)",
+          "descrizione": "Packet of seeds to grow. Listing to be completed.",
+          "descrizione_completa": "Packet of seeds to grow. Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "secchi-1",
+      "nome": "Prodotto secco o conservato (da definire)",
+      "categoria": "secchi",
+      "prezzo_centesimi": 0,
+      "descrizione": "Prodotto secco o conservato. Scheda da completare.",
+      "descrizione_completa": "Prodotto secco o conservato. Scheda da completare.",
+      "immagine": "",
+      "icona": "🧅",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Dried or preserved product (to be defined)",
+          "descrizione": "Dried or preserved product. Listing to be completed.",
+          "descrizione_completa": "Dried or preserved product. Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "freschi-1",
+      "nome": "Prodotto fresco di stagione (da definire)",
+      "categoria": "freschi",
+      "prezzo_centesimi": 0,
+      "descrizione": "Prodotto fresco, in base a raccolto e disponibilità. Scheda da completare.",
+      "descrizione_completa": "Prodotto fresco, in base a raccolto e disponibilità. Scheda da completare.",
+      "immagine": "",
+      "icona": "🧅",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Fresh seasonal product (to be defined)",
+          "descrizione": "Fresh product, depending on harvest and availability. Listing to be completed.",
+          "descrizione_completa": "Fresh product, depending on harvest and availability. Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "guida-1",
+      "nome": "Guida digitale (da definire)",
+      "categoria": "libri",
+      "prezzo_centesimi": 0,
+      "descrizione": "Guida in formato digitale. Scheda da completare quando il file è pronto.",
+      "descrizione_completa": "Guida in formato digitale. Scheda da completare quando il file è pronto.",
+      "immagine": "",
+      "icona": "🧅",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Digital guide (to be defined)",
+          "descrizione": "Guide in digital format. Listing to be completed when the file is ready.",
+          "descrizione_completa": "Guide in digital format. Listing to be completed when the file is ready."
         }
       }
     }

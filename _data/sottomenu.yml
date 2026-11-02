@@ -31,3 +31,16 @@
 # Per levare una tendina: cancella il blocco, la voce torna un link normale.
 # Documentazione del funzionamento: commento in testa a _includes/masthead.html.
 # =====================================================================================
+
+Prodotti:
+  - title: "Semi"
+    url: /negozio/categoria/semi/
+  - title: "Secchi e conservati"
+    url: /negozio/categoria/secchi/
+  - title: "Freschi"
+    url: /negozio/categoria/freschi/
+  - title: "Libri e guide"
+    url: /negozio/categoria/libri/
+  - divider: true
+  - title: "Tutto il negozio"
+    url: /negozio/

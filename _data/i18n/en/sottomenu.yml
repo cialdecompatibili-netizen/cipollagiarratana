@@ -1,1 +1,14 @@
 # English dropdown menus (empty = none). Each key must be IDENTICAL to a title in navigation.yml of this folder.
+
+Products:
+  - title: "Seeds"
+    url: /en/shop/category/seeds/
+  - title: "Dried and preserved"
+    url: /en/shop/category/dried/
+  - title: "Fresh"
+    url: /en/shop/category/fresh/
+  - title: "Books and guides"
+    url: /en/shop/category/books/
+  - divider: true
+  - title: "The whole shop"
+    url: /en/shop/
