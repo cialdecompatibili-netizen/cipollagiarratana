@@ -40,6 +40,8 @@ MAI bordi laterali colorati su box, citazioni, avvisi, CTA. Box puliti con sfond
 - Risposte brevissime, modifiche in una sola chiamata.
 
 ## Cose che funzionano
+- Prodotto con varianti (es. numero di semi, come WooCommerce/PrestaShop): UN solo prodotto in catalogo.json con arianti_titolo e arianti: [{codice, etichetta, prezzo_centesimi, tr:{en}}] (prezzo_centesimi del prodotto = variante piu' economica). Il layout negozio-prodotto mostra i bottoni (.nz-var) e cambia data-id/nome/prezzo; masthead.html aggiunge al carrello una voce <id>-<codice> per ogni variante. Script di esempio: automation/semi_con_varianti.py.
+- Deploy Pages bloccato (run in_progress 10+ min, 'Getting Pages deployment status' e poi timeout) con githubstatus 'operational': NON rilanciare/cancellare lo stesso commit (il deploy e' legato allo SHA e resta appeso). Soluzione che ha funzionato: git commit --allow-empty + push (SHA nuovo), online in 2 minuti.
 - Prodotto senza foto pronta: si crea comunque con una foto DEMO (SVG con emoji in assets/images/prodotti/<id>-demo.svg, campo immagine nel catalogo) e si sostituisce dopo con la foto Gemini. Script riusabile: automation/aggiungi_semi_giarratana.py (catalogo + 2 pagine IT/EN, poi allinea_hash.py en, commit, push).
 - Test senza build locale: simulare la logica JS dell'admin con node + `vm` (stub di `lgText`/`lgCommit` e albero finto) e lanciare `node --check` sul file. Esempio: `claudetemp\test_lingue.js` (clone en -> de rinominato).
 - Rilevare le lingue dalle CARTELLE (non dal config) e normalizzare tutto il resto da li': evita config e cartelle fuori sync.
