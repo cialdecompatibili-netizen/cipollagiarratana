@@ -1,13 +1,13 @@
-# English dropdown menus (empty = none). Each key must be IDENTICAL to a title in navigation.yml of this folder.
+﻿# English dropdown menus (empty = none). Each key must be IDENTICAL to a title in navigation.yml of this folder.
 
 Products:
-  - title: "Seeds"
+  - title: "Giarratana onion seeds"
     url: /en/shop/category/seeds/
-  - title: "Dried and preserved"
+  - title: "Dried and preserved Giarratana onion"
     url: /en/shop/category/dried/
-  - title: "Fresh"
+  - title: "Fresh Giarratana onion"
     url: /en/shop/category/fresh/
-  - title: "Books and guides"
+  - title: "Giarratana onion guides"
     url: /en/shop/category/books/
   - divider: true
   - title: "The whole shop"

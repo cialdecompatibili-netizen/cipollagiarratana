@@ -1,4 +1,4 @@
-/* GUIDA-SVILUPPO: stile del menu (masthead.html + assets/js/menu.js). Classi nv__* e attributi data-nv-* sono usati da tutti e tre: non rinominare. Colori SOLO da variabili --t-nav-*, --t-accent (tema.json). Il masthead e' in cache e identico su ogni pagina: lo stato per-pagina (voce attiva, lingua) lo calcola menu.js. */
+﻿/* GUIDA-SVILUPPO: stile del menu (masthead.html + assets/js/menu.js). Classi nv__* e attributi data-nv-* sono usati da tutti e tre: non rinominare. Colori SOLO da variabili --t-nav-*, --t-accent (tema.json). Il masthead e' in cache e identico su ogni pagina: lo stato per-pagina (voce attiva, lingua) lo calcola menu.js. */
 /* =====================================================================
    MENU DEL SITO (assets/css/menu.css)  -  pari pari a al-folio
    Si abbina a _includes/masthead.html e assets/js/menu.js.
@@ -49,7 +49,7 @@
 .nv__dd--wide .nv__dd-item { white-space: normal; break-inside: avoid; }
 .nv__dd--wide .nv__divider { column-span: all; }
 /* prima voce della tendina (es. "Tutti i servizi"): centrata, su tutta la larghezza */
-.nv__dd > .nv__dd-item:first-child { text-align: center; font-weight: 600; column-span: all; }
+.nv__dd > .nv__dd-item:first-child { text-align: left; font-weight: 600; column-span: all; }
 
 /* strumenti (lente + carrello) */
 .nv__tools { display: flex; align-items: center; gap: .35rem; padding-left: .35rem; }

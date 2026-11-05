@@ -1,4 +1,4 @@
-# =====================================================================================
+﻿# =====================================================================================
 # SOTTOMENU DEL SITO  (_data/sottomenu.yml)
 # Le voci PRINCIPALI stanno in _data/navigation.yml (le modifica anche admin > Menu).
 # Qui stanno solo le TENDINE. Ora le gestisce anche admin > Menu (bottone "Sottomenu"
@@ -33,13 +33,13 @@
 # =====================================================================================
 
 Prodotti:
-  - title: "Semi"
+  - title: "Semi di cipolla di Giarratana"
     url: /negozio/categoria/semi/
-  - title: "Secchi e conservati"
+  - title: "Cipolla di Giarratana secca e conservata"
     url: /negozio/categoria/secchi/
-  - title: "Freschi"
+  - title: "Cipolla di Giarratana fresca"
     url: /negozio/categoria/freschi/
-  - title: "Libri e guide"
+  - title: "Guide sulla cipolla di Giarratana"
     url: /negozio/categoria/libri/
   - divider: true
   - title: "Tutto il negozio"
