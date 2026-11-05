@@ -14,5 +14,17 @@
   {
     "nome": "Ricette",
     "descrizione": "Ricette e idee in cucina con la cipolla di Giarratana."
+  },
+  {
+    "nome": "Coltivazione",
+    "descrizione": "Semina, trapianto, raccolta e conservazione della cipolla di Giarratana."
+  },
+  {
+    "nome": "Storia e tradizione",
+    "descrizione": "Il Presidio Slow Food, Giarratana e la storia della cipolla."
+  },
+  {
+    "nome": "Prodotti e conserve",
+    "descrizione": "Conserve, filetti, marmellate e usi in cucina dei nostri prodotti."
   }
 ]

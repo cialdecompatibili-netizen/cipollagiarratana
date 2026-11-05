@@ -14,5 +14,17 @@
   {
     "nome": "Recipes",
     "descrizione": "Recipes and kitchen ideas with the Giarratana onion."
+  },
+  {
+    "nome": "Growing",
+    "descrizione": "Sowing, transplanting, harvesting and storing the Giarratana onion."
+  },
+  {
+    "nome": "History and tradition",
+    "descrizione": "The Slow Food Presidium, Giarratana and the story of the onion."
+  },
+  {
+    "nome": "Products and preserves",
+    "descrizione": "Preserves, fillets, jams and kitchen uses of our products."
   }
 ]
