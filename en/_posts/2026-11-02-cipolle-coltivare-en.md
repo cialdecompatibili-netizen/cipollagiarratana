@@ -3,6 +3,7 @@ layout: single
 ref: cipolle-coltivare
 title: "How to grow and store onions"
 date: 2026-11-02
+permalink: /en/blog/guides/cipolle-coltivare-en/
 excerpt: "From sowing to harvest, up to storage: the basic rules for the garden."
 seo_title: "How to grow and store onions"
 seo_description: "How to grow onions from seed and how to store them: soil, watering, harvesting when the leaves turn yellow, and drying."
@@ -11,7 +12,7 @@ categories:
 lang: en
 locale: en
 tr: tradotto
-tr_hash: sbpgp9
+tr_hash: 373s7d
 ---
 
 Onions are among the easiest vegetables to grow, if you follow a few basic rules.

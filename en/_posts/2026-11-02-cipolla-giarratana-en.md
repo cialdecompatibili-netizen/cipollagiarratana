@@ -3,6 +3,7 @@ layout: single
 ref: cipolla-giarratana
 title: "Giarratana onion: Sicily's giant onion"
 date: 2026-11-02
+permalink: /en/blog/guides/cipolla-giarratana-en/
 excerpt: "A very large and sweet onion, a Slow Food Presidium: how to use it in the kitchen."
 seo_title: "Giarratana onion: Sicily's giant onion"
 seo_description: "The Giarratana onion, a Slow Food Presidium from the province of Ragusa: features, sweet flavour and ideas to use it raw, roasted or stuffed."

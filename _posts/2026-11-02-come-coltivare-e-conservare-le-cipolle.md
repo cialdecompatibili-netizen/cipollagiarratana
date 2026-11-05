@@ -2,7 +2,8 @@
 layout: single
 ref: cipolle-coltivare
 title: "Come coltivare e conservare la cipolla di Giarratana"
-date: 2026-11-02
+date: 2026-11-02
+permalink: /blog/guide/come-coltivare-e-conservare-le-cipolle/
 excerpt: "Semina a fine ottobre, trapianto a febbraio-marzo, raccolta in estate: il ciclo tradizionale della cipolla di Giarratana e come conservarla."
 seo_title: "Come coltivare e conservare la cipolla di Giarratana"
 seo_description: "Coltivazione tradizionale della cipolla di Giarratana, Presidio Slow Food del Ragusano: semina in semenzaio a fine ottobre, trapianto a febbraio-marzo, raccolta da luglio ad agosto, conservazione e conserve."

@@ -8,4 +8,5 @@ lang: en
 locale: en
 ref: shop-cat-libri
 tr: tradotto
+tr_hash: 45h
 ---
