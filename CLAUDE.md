@@ -40,6 +40,7 @@ MAI bordi laterali colorati su box, citazioni, avvisi, CTA. Box puliti con sfond
 - Risposte brevissime, modifiche in una sola chiamata.
 
 ## Cose che funzionano
+- Prodotto senza foto pronta: si crea comunque con una foto DEMO (SVG con emoji in assets/images/prodotti/<id>-demo.svg, campo immagine nel catalogo) e si sostituisce dopo con la foto Gemini. Script riusabile: automation/aggiungi_semi_giarratana.py (catalogo + 2 pagine IT/EN, poi allinea_hash.py en, commit, push).
 - Test senza build locale: simulare la logica JS dell'admin con node + `vm` (stub di `lgText`/`lgCommit` e albero finto) e lanciare `node --check` sul file. Esempio: `claudetemp\test_lingue.js` (clone en -> de rinominato).
 - Rilevare le lingue dalle CARTELLE (non dal config) e normalizzare tutto il resto da li': evita config e cartelle fuori sync.
 - Liquid senza plugin: costruire un array con `split` + `concat` + `uniq` dentro un include che fa solo `assign` (le variabili restano visibili a chi lo include).- Patch su file grandi con CRLF (admin/index.html): script node con `readFileSync`/`replace`/`writeFileSync` su stringhe esatte, mai edit multiriga a mano; poi `node --check` sui .js. Mock del wrapper fetch: `claudetemp\test_lingua_admin.js`.
