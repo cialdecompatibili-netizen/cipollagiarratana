@@ -45,77 +45,248 @@
   "prodotti": [
     {
       "tipo": "fisico",
-      "id": "semi-cipolla-giarratana",
-      "nome": "Semi di cipolla di Giarratana",
+      "id": "semi-cipolla-giarratana-50",
+      "nome": "Semi di cipolla di Giarratana, 50 semi",
       "categoria": "semi",
-      "prezzo_centesimi": 400,
-      "descrizione": "Bustina di semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio e trapiantare nel tuo orto.",
-      "descrizione_completa": "Bustina di semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.\nÈ una cipolla dolce e mai pungente, dal bulbo grande.",
-      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-demo.svg",
+      "prezzo_centesimi": 300,
+      "descrizione": "Bustina da 50 semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio.",
+      "descrizione_completa": "Bustina da 50 semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-50-demo.svg",
       "icona": "🧅",
       "visibile": true,
       "tr": {
         "en": {
-          "nome": "Giarratana onion seeds",
-          "descrizione": "Packet of Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed and transplant into your garden.",
-          "descrizione_completa": "Packet of Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer.\nA sweet, never pungent onion with a large bulb."
+          "nome": "Giarratana onion seeds, 50 seeds",
+          "descrizione": "Packet of 50 Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed.",
+          "descrizione_completa": "Packet of 50 Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "secchi-1",
-      "nome": "Prodotto secco o conservato (da definire)",
+      "id": "semi-cipolla-giarratana-100",
+      "nome": "Semi di cipolla di Giarratana, 100 semi",
+      "categoria": "semi",
+      "prezzo_centesimi": 500,
+      "descrizione": "Bustina da 100 semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio.",
+      "descrizione_completa": "Bustina da 100 semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-100-demo.svg",
+      "icona": "🧅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Giarratana onion seeds, 100 seeds",
+          "descrizione": "Packet of 100 Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed.",
+          "descrizione_completa": "Packet of 100 Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "semi-cipolla-giarratana-150",
+      "nome": "Semi di cipolla di Giarratana, 150 semi",
+      "categoria": "semi",
+      "prezzo_centesimi": 700,
+      "descrizione": "Bustina da 150 semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio.",
+      "descrizione_completa": "Bustina da 150 semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-150-demo.svg",
+      "icona": "🧅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Giarratana onion seeds, 150 seeds",
+          "descrizione": "Packet of 150 Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed.",
+          "descrizione_completa": "Packet of 150 Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "semi-cipolla-giarratana-200",
+      "nome": "Semi di cipolla di Giarratana, 200 semi",
+      "categoria": "semi",
+      "prezzo_centesimi": 900,
+      "descrizione": "Bustina da 200 semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio.",
+      "descrizione_completa": "Bustina da 200 semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-200-demo.svg",
+      "icona": "🧅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Giarratana onion seeds, 200 seeds",
+          "descrizione": "Packet of 200 Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed.",
+          "descrizione_completa": "Packet of 200 Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "semi-cipolla-giarratana-250",
+      "nome": "Semi di cipolla di Giarratana, 250 semi",
+      "categoria": "semi",
+      "prezzo_centesimi": 1100,
+      "descrizione": "Bustina da 250 semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio.",
+      "descrizione_completa": "Bustina da 250 semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-250-demo.svg",
+      "icona": "🧅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Giarratana onion seeds, 250 seeds",
+          "descrizione": "Packet of 250 Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed.",
+          "descrizione_completa": "Packet of 250 Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "semi-cipolla-giarratana-300",
+      "nome": "Semi di cipolla di Giarratana, 300 semi",
+      "categoria": "semi",
+      "prezzo_centesimi": 1300,
+      "descrizione": "Bustina da 300 semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio.",
+      "descrizione_completa": "Bustina da 300 semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-300-demo.svg",
+      "icona": "🧅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Giarratana onion seeds, 300 seeds",
+          "descrizione": "Packet of 300 Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed.",
+          "descrizione_completa": "Packet of 300 Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "semi-cipolla-giarratana-350",
+      "nome": "Semi di cipolla di Giarratana, 350 semi",
+      "categoria": "semi",
+      "prezzo_centesimi": 1500,
+      "descrizione": "Bustina da 350 semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio.",
+      "descrizione_completa": "Bustina da 350 semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-350-demo.svg",
+      "icona": "🧅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Giarratana onion seeds, 350 seeds",
+          "descrizione": "Packet of 350 Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed.",
+          "descrizione_completa": "Packet of 350 Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "semi-cipolla-giarratana-400",
+      "nome": "Semi di cipolla di Giarratana, 400 semi",
+      "categoria": "semi",
+      "prezzo_centesimi": 1700,
+      "descrizione": "Bustina da 400 semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio.",
+      "descrizione_completa": "Bustina da 400 semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-400-demo.svg",
+      "icona": "🧅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Giarratana onion seeds, 400 seeds",
+          "descrizione": "Packet of 400 Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed.",
+          "descrizione_completa": "Packet of 400 Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "semi-cipolla-giarratana-450",
+      "nome": "Semi di cipolla di Giarratana, 450 semi",
+      "categoria": "semi",
+      "prezzo_centesimi": 1900,
+      "descrizione": "Bustina da 450 semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio.",
+      "descrizione_completa": "Bustina da 450 semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-450-demo.svg",
+      "icona": "🧅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Giarratana onion seeds, 450 seeds",
+          "descrizione": "Packet of 450 Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed.",
+          "descrizione_completa": "Packet of 450 Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "semi-cipolla-giarratana-500",
+      "nome": "Semi di cipolla di Giarratana, 500 semi",
+      "categoria": "semi",
+      "prezzo_centesimi": 2100,
+      "descrizione": "Bustina da 500 semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio.",
+      "descrizione_completa": "Bustina da 500 semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-500-demo.svg",
+      "icona": "🧅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Giarratana onion seeds, 500 seeds",
+          "descrizione": "Packet of 500 Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed.",
+          "descrizione_completa": "Packet of 500 Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "confettura-cipolla-giarratana",
+      "nome": "Confettura di cipolla di Giarratana",
       "categoria": "secchi",
-      "prezzo_centesimi": 0,
-      "descrizione": "Prodotto secco o conservato. Scheda da completare.",
-      "descrizione_completa": "Prodotto secco o conservato. Scheda da completare.",
-      "immagine": "",
+      "prezzo_centesimi": 650,
+      "descrizione": "Confettura dolce di cipolla di Giarratana, da abbinare a formaggi e carni.",
+      "descrizione_completa": "Confettura dolce di cipolla di Giarratana, Presidio Slow Food.\nOttima con formaggi stagionati e carni.",
+      "immagine": "assets/images/prodotti/confettura-cipolla-giarratana-demo.svg",
       "icona": "🧅",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Dried or preserved product (to be defined)",
-          "descrizione": "Dried or preserved product. Listing to be completed.",
-          "descrizione_completa": "Dried or preserved product. Listing to be completed."
+          "nome": "Giarratana onion jam",
+          "descrizione": "Sweet Giarratana onion jam, perfect with cheese and meat.",
+          "descrizione_completa": "Sweet jam made with Giarratana onion, a Slow Food Presidium.\nGreat with aged cheese and meat."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "freschi-1",
-      "nome": "Prodotto fresco di stagione (da definire)",
+      "id": "cipolla-giarratana-fresca",
+      "nome": "Cipolle di Giarratana fresche",
       "categoria": "freschi",
-      "prezzo_centesimi": 0,
-      "descrizione": "Prodotto fresco, in base a raccolto e disponibilità. Scheda da completare.",
-      "descrizione_completa": "Prodotto fresco, in base a raccolto e disponibilità. Scheda da completare.",
-      "immagine": "",
+      "prezzo_centesimi": 900,
+      "descrizione": "Cipolle di Giarratana fresche, dolci e mai pungenti, disponibili nella stagione del raccolto.",
+      "descrizione_completa": "Cipolle di Giarratana fresche, dolci e mai pungenti, dal bulbo grande.\nDisponibili da fine luglio a fine agosto, in base al raccolto.",
+      "immagine": "assets/images/prodotti/cipolla-giarratana-fresca-demo.svg",
       "icona": "🧅",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Fresh seasonal product (to be defined)",
-          "descrizione": "Fresh product, depending on harvest and availability. Listing to be completed.",
-          "descrizione_completa": "Fresh product, depending on harvest and availability. Listing to be completed."
+          "nome": "Fresh Giarratana onions",
+          "descrizione": "Fresh Giarratana onions, sweet and never pungent, available in the harvest season.",
+          "descrizione_completa": "Fresh Giarratana onions, sweet and never pungent, with a large bulb.\nAvailable from late July to late August, depending on the harvest."
         }
       }
     },
     {
       "tipo": "digitale",
-      "id": "guida-1",
-      "nome": "Guida digitale (da definire)",
+      "id": "guida-coltivazione-giarratana",
+      "nome": "Guida alla coltivazione della cipolla di Giarratana",
       "categoria": "libri",
-      "prezzo_centesimi": 0,
-      "descrizione": "Guida in formato digitale. Scheda da completare quando il file è pronto.",
-      "descrizione_completa": "Guida in formato digitale. Scheda da completare quando il file è pronto.",
-      "immagine": "",
+      "prezzo_centesimi": 900,
+      "descrizione": "Guida digitale per coltivare e conservare la cipolla di Giarratana.",
+      "descrizione_completa": "Guida in formato digitale per coltivare e conservare la cipolla di Giarratana: semina, trapianto, raccolta.",
+      "immagine": "assets/images/prodotti/guida-coltivazione-giarratana-demo.svg",
       "icona": "🧅",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Digital guide (to be defined)",
-          "descrizione": "Guide in digital format. Listing to be completed when the file is ready.",
-          "descrizione_completa": "Guide in digital format. Listing to be completed when the file is ready."
+          "nome": "Giarratana onion growing guide",
+          "descrizione": "Digital guide to growing and storing the Giarratana onion.",
+          "descrizione_completa": "Digital guide to growing and storing the Giarratana onion: sowing, transplanting, harvest."
         }
       }
     }
