@@ -10,5 +10,9 @@
   {
     "nome": "News",
     "descrizione": "Updates and news from the site."
+  },
+  {
+    "nome": "Recipes",
+    "descrizione": "Recipes and kitchen ideas with the Giarratana onion."
   }
 ]
