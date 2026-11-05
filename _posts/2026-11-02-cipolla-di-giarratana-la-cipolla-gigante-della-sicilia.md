@@ -8,7 +8,7 @@ excerpt: "Una cipolla molto grande e dolce, Presidio Slow Food: come usarla in c
 seo_title: "Cipolla di Giarratana: la cipolla gigante della Sicilia"
 seo_description: "La cipolla di Giarratana, Presidio Slow Food della provincia di Ragusa: caratteristiche, sapore dolce e idee per usarla cruda, al forno o ripiena."
 categories:
-  - guide
+  - Guide
 ---
 
 La **cipolla di Giarratana** prende il nome da Giarratana, in provincia di Ragusa, ed è un Presidio Slow Food. Si riconosce per le dimensioni: i bulbi sono molto grandi e possono superare il chilo.

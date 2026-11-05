@@ -8,7 +8,7 @@ excerpt: "A very large and sweet onion, a Slow Food Presidium: how to use it in 
 seo_title: "Giarratana onion: Sicily's giant onion"
 seo_description: "The Giarratana onion, a Slow Food Presidium from the province of Ragusa: features, sweet flavour and ideas to use it raw, roasted or stuffed."
 categories:
-  - guides
+  - Guides
 lang: en
 locale: en
 tr: tradotto

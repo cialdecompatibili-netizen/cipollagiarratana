@@ -8,7 +8,7 @@ excerpt: "From sowing to harvest, up to storage: the basic rules for the garden.
 seo_title: "How to grow and store onions"
 seo_description: "How to grow onions from seed and how to store them: soil, watering, harvesting when the leaves turn yellow, and drying."
 categories:
-  - guides
+  - Guides
 lang: en
 locale: en
 tr: tradotto

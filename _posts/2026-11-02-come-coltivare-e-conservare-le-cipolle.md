@@ -8,7 +8,7 @@ excerpt: "Semina a fine ottobre, trapianto a febbraio-marzo, raccolta in estate:
 seo_title: "Come coltivare e conservare la cipolla di Giarratana"
 seo_description: "Coltivazione tradizionale della cipolla di Giarratana, Presidio Slow Food del Ragusano: semina in semenzaio a fine ottobre, trapianto a febbraio-marzo, raccolta da luglio ad agosto, conservazione e conserve."
 categories:
-  - guide
+  - Guide
 ---
 
 La **cipolla di Giarratana** non si coltiva come una cipolla qualsiasi: è una varietà locale del comune di Giarratana, in provincia di Ragusa, Presidio Slow Food e inserita tra i prodotti agroalimentari tradizionali italiani. Ha bulbi grandi e schiacciati, di sapore dolce e mai pungente. Secondo i produttori può arrivare a pesare 3,5 chili.
