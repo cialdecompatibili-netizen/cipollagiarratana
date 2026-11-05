@@ -2,42 +2,42 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Semi",
+      "nome": "Semi di cipolla di Giarratana",
       "id": "semi",
       "icona": "🧅",
       "tr": {
         "en": {
-          "nome": "Seeds"
+          "nome": "Giarratana onion seeds"
         }
       }
     },
     {
-      "nome": "Secchi e conservati",
+      "nome": "Cipolla di Giarratana secca e conservata",
       "id": "secchi",
       "icona": "🧅",
       "tr": {
         "en": {
-          "nome": "Dried and preserved"
+          "nome": "Dried and preserved Giarratana onion"
         }
       }
     },
     {
-      "nome": "Freschi",
+      "nome": "Cipolla di Giarratana fresca",
       "id": "freschi",
       "icona": "🧅",
       "tr": {
         "en": {
-          "nome": "Fresh"
+          "nome": "Fresh Giarratana onion"
         }
       }
     },
     {
-      "nome": "Libri e guide",
+      "nome": "Guide sulla cipolla di Giarratana",
       "id": "libri",
       "icona": "🧅",
       "tr": {
         "en": {
-          "nome": "Books and guides"
+          "nome": "Giarratana onion guides"
         }
       }
     }

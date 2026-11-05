@@ -1,8 +1,8 @@
 ---
 layout: negozio-categoria
-title: "Libri e guide"
+title: "Guide sulla cipolla di Giarratana"
 cid: libri
 permalink: /negozio/categoria/libri/
-description: "Libri e guide - Cipolla Giarratana"
+description: "Guide sulla cipolla di Giarratana: coltivazione, conservazione e ricette."
 ref: shop-cat-libri
 ---
