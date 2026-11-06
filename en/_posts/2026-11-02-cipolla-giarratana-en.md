@@ -3,6 +3,9 @@ layout: single
 ref: cipolla-giarratana
 title: "Giarratana onion: Sicily's giant onion"
 date: 2026-11-02
+header:
+  teaser: /assets/images/posts/cipolla-di-giarratana-la-cipolla-gigante-della-sicilia.jpg
+  teaser_alt: "Whole and halved Giarratana onion on a rustic table"
 permalink: /en/blog/guides/cipolla-giarratana-en/
 excerpt: "A very large and sweet onion, a Slow Food Presidium: how to use it in the kitchen."
 seo_title: "Giarratana onion: Sicily's giant onion"

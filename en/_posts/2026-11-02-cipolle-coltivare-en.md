@@ -3,6 +3,9 @@ layout: single
 ref: cipolle-coltivare
 title: "How to grow and store onions"
 date: 2026-11-02
+header:
+  teaser: /assets/images/posts/come-coltivare-e-conservare-le-cipolle.jpg
+  teaser_alt: "Giarratana onion field in Sicily with white bulbs drying on the soil"
 permalink: /en/blog/growing/cipolle-coltivare-en/
 excerpt: "From sowing to harvest, up to storage: the basic rules for the garden."
 seo_title: "How to grow and store onions"

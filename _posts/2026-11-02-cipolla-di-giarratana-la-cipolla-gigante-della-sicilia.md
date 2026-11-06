@@ -3,6 +3,9 @@ layout: single
 ref: cipolla-giarratana
 title: "Cipolla di Giarratana: la cipolla gigante della Sicilia"
 date: 2026-11-02
+header:
+  teaser: /assets/images/posts/cipolla-di-giarratana-la-cipolla-gigante-della-sicilia.jpg
+  teaser_alt: "Cipolla di Giarratana intera e tagliata a metà su un tavolo rustico"
 permalink: /blog/guide/cipolla-di-giarratana-la-cipolla-gigante-della-sicilia/
 excerpt: "Una cipolla molto grande e dolce, Presidio Slow Food: come usarla in cucina."
 seo_title: "Cipolla di Giarratana: la cipolla gigante della Sicilia"

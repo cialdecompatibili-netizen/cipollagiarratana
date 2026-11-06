@@ -2,7 +2,11 @@
 layout: single
 ref: cipolle-coltivare
 title: "Come coltivare e conservare la cipolla di Giarratana"
-date: 2026-11-02
+date: 2026-11-02
+header:
+  teaser: /assets/images/posts/come-coltivare-e-conservare-le-cipolle.jpg
+  teaser_alt: "Campo di cipolle di Giarratana in Sicilia con bulbi bianchi messi a seccare"
+
 permalink: /blog/coltivazione/come-coltivare-e-conservare-le-cipolle/
 excerpt: "Semina a fine ottobre, trapianto a febbraio-marzo, raccolta in estate: il ciclo tradizionale della cipolla di Giarratana e come conservarla."
 seo_title: "Come coltivare e conservare la cipolla di Giarratana"
