@@ -12,7 +12,7 @@ acc, dark = hx(tema.get('accent', '#8a5a00')), hx(tema.get('accent_dark', '#4a30
 TOP = mix(acc, (255, 255, 255), .10); BOT = mix(dark, acc, .20)
 C1, C2 = (253, 249, 238), (232, 219, 188)      # bulbo: alto / basso
 LINE = (214, 198, 160); ROOT_C = (205, 190, 152)
-G1, G2 = (122, 168, 74), (84, 132, 52)          # foglie
+G1, G2 = (178, 220, 120), (140, 190, 85)          # foglie
 CX, CY, RX, RY = 32.0, 38.0, 21.5, 15.5
 def ell(n=96): return [(CX + RX * math.cos(2 * math.pi * i / n), CY + RY * math.sin(2 * math.pi * i / n)) for i in range(n)]
 def meridiano(k, n=40): return [(CX + k * RX * math.sin(math.pi * i / n), CY - RY * math.cos(math.pi * i / n)) for i in range(n + 1)]

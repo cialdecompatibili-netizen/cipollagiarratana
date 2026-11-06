@@ -1,10 +1,10 @@
 {
-  "accent": "#8a5a00",
-  "accent_dark": "#4a3000",
-  "nav_bg": "#ffffff",
-  "nav_text": "#0e1116",
-  "nav_hover": "#8a5a00",
-  "body_bg": "#ffffff",
-  "text": "#26333b",
-  "link": "#8a5a00"
+  "accent": "#4f7a2b",
+  "accent_dark": "#2d4a1a",
+  "nav_bg": "#fffdf6",
+  "nav_text": "#1f2a1a",
+  "nav_hover": "#4f7a2b",
+  "body_bg": "#fffdf6",
+  "text": "#2b3326",
+  "link": "#3f6b22"
 }
