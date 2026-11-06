@@ -42,11 +42,11 @@ search: true
 
 # SEO globale
 author:
-  name: "Nome autore"
-  avatar: "/assets/images/autore-segnaposto.svg"
-  bio: "Scrivi qui una breve presentazione dell'autore o del sito: chi sei, di cosa ti occupi e come contattarti."
+  name: "Salvatore"
+  avatar: "/assets/images/autore-salvatore.jpg"
+  bio: "Ciao, mi chiamo Salvatore. Sono nato a Giarratana, in Sicilia, in mezzo alle cipolle: le coltivava mio padre, e prima di lui mio nonno. Io porto avanti questa tradizione artigianale di famiglia in famiglia, seminando e raccogliendo a mano, come si è sempre fatto. Le mie cipolle sono grandi, dolci e mai pungenti: assaggiale e capirai perché da noi sono un orgoglio. Scrivimi per semi, consigli o per ordinare."
   links:
-    - label: "Contatti"
+    - label: "Scrivimi"
       icon: "fas fa-fw fa-envelope"
       url: "/contatti/"
 
@@ -127,6 +127,7 @@ defaults:
       type: posts
     values:
       layout: single
+      author: salvatore_en
       # Niente prefisso /en/: Jekyll aggiunge gia' la cartella (en) alle categorie degli articoli in en/_posts. Con /en/ davanti usciva /en/en/...
       permalink: /:categories/:title/
   # lingua di base: tutto cio' che non e' in una cartella lingua e' `it` (filtra elenchi e selettore)

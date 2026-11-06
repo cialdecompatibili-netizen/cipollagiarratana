@@ -1,0 +1,9 @@
+# Autori per lingua (usati da author: <chiave> nei default di _config.yml). L'italiano usa site.author.
+salvatore_en:
+  name: "Salvatore"
+  avatar: "/assets/images/autore-salvatore.jpg"
+  bio: "Hi, I'm Salvatore. I was born in Giarratana, Sicily, among the onions: my father grew them, and my grandfather before him. I carry on this family craft by sowing and harvesting by hand, the way it has always been done. My onions are big, sweet and never harsh: taste them and you will see why we are so proud of them. Write to me for seeds, advice or to order."
+  links:
+    - label: "Write to me"
+      icon: "fas fa-fw fa-envelope"
+      url: "/en/contact/"
