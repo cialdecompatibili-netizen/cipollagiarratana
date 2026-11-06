@@ -134,7 +134,7 @@
       ],
       "descrizione": "Semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio e trapiantare nel tuo orto. Scegli la quantità.",
       "descrizione_completa": "Semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo, in bustine da 50 a 500 semi.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.\nÈ una cipolla dolce e mai pungente, dal bulbo grande.",
-      "immagine": "assets/images/prodotti/semi-cipolla-giarratana-demo.svg",
+      "immagine": "assets/images/prodotti/semi-cipolla-giarratana.webp",
       "icona": "🧅",
       "visibile": true,
       "tr": {
@@ -154,7 +154,7 @@
       "prezzo_centesimi": 650,
       "descrizione": "Confettura dolce di cipolla di Giarratana, da abbinare a formaggi e carni.",
       "descrizione_completa": "Confettura dolce di cipolla di Giarratana, Presidio Slow Food.\nOttima con formaggi stagionati e carni.",
-      "immagine": "assets/images/prodotti/confettura-cipolla-giarratana-demo.svg",
+      "immagine": "assets/images/prodotti/confettura-cipolla-giarratana.webp",
       "icona": "🧅",
       "visibile": true,
       "tr": {
@@ -172,15 +172,15 @@
       "categoria": "freschi",
       "prezzo_centesimi": 900,
       "descrizione": "Cipolle di Giarratana fresche, dolci e mai pungenti, disponibili nella stagione del raccolto.",
-      "descrizione_completa": "Cipolle di Giarratana fresche, dolci e mai pungenti, dal bulbo grande.\nDisponibili da fine luglio a fine agosto, in base al raccolto.",
-      "immagine": "assets/images/prodotti/cipolla-giarratana-fresca-demo.svg",
+      "descrizione_completa": "Cipolle di Giarratana fresche, dolci e mai pungenti, dal bulbo grande.\nDisponibili da fine luglio a fine agosto, in base al raccolto. Foto: Elyparker, CC BY-SA 4.0, Wikimedia Commons.",
+      "immagine": "assets/images/prodotti/cipolla-giarratana-fresca.webp",
       "icona": "🧅",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "Fresh Giarratana onions",
           "descrizione": "Fresh Giarratana onions, sweet and never pungent, available in the harvest season.",
-          "descrizione_completa": "Fresh Giarratana onions, sweet and never pungent, with a large bulb.\nAvailable from late July to late August, depending on the harvest."
+          "descrizione_completa": "Fresh Giarratana onions, sweet and never pungent, with a large bulb.\nAvailable from late July to late August, depending on the harvest. Photo: Elyparker, CC BY-SA 4.0, Wikimedia Commons."
         }
       }
     },
@@ -192,7 +192,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Guida digitale per coltivare e conservare la cipolla di Giarratana.",
       "descrizione_completa": "Guida in formato digitale per coltivare e conservare la cipolla di Giarratana: semina, trapianto, raccolta.",
-      "immagine": "assets/images/prodotti/guida-coltivazione-giarratana-demo.svg",
+      "immagine": "assets/images/prodotti/guida-coltivazione-giarratana.webp",
       "icona": "🧅",
       "visibile": true,
       "tr": {
