@@ -1,32 +1,32 @@
 [
-  {
-    "id": "hero",
-    "nome": "Hero",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Cipolla di Giarratana, Sicilia</p><h1 class=\"gc-h1\">La cipolla di Giarratana, <em>grande, dolce e da coltivare.</em></h1><p class=\"gc-lead\">Cipolle fresche e secche, semi per coltivarle, conserve, libri e guide digitali con ricette e consigli di coltivazione.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Chiedi disponibilit&#224;</a><a class=\"gc-btn gc-btn-o\" href=\"#catalogo\">Scopri le categorie</a></div></div><div class=\"ent-cycle\"><div><i class=\"ent-ic\" aria-hidden=\"true\">🌱</i><p><b>Semi</b><span>per coltivare</span></p><a class=\"ent-go\" href=\"__BASEURL__/negozio/categoria/semi/\" aria-label=\"Semi\">&#8594;</a></div><div><i class=\"ent-ic\" aria-hidden=\"true\">🧅</i><p><b>Secchi e freschi</b><span>di stagione</span></p><a class=\"ent-go\" href=\"__BASEURL__/negozio/categoria/secchi/\" aria-label=\"Secchi e freschi\">&#8594;</a></div><div><i class=\"ent-ic\" aria-hidden=\"true\">📖</i><p><b>Libri e guide</b><span>digitali</span></p><a class=\"ent-go\" href=\"__BASEURL__/negozio/categoria/libri/\" aria-label=\"Libri e guide\">&#8594;</a></div></div></div></section></div>"
-  },
-  {
-    "id": "catalogo",
-    "nome": "Catalogo",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"catalogo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Il catalogo</p><h2 class=\"gc-h2\">Cosa trovi qui</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Semi</b><p>Semi di cipolla da coltivare in orto.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/semi/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Secchi e conservati</b><p>Cipolle secche, marmellate e conserve di cipolla.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/secchi/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Freschi</b><p>Cipolle fresche di stagione, in base a raccolto e disponibilit&#224;.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/freschi/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Libri e guide</b><p>Guide digitali su coltivazione, conservazione e ricette.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/libri/\">Vai alla categoria &#8594;</a></p></div></div></div></section></div>"
-  },
-  {
-    "id": "prodotto",
-    "nome": "Il prodotto",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"prodotto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Il prodotto</p><h2 class=\"gc-h2\">La cipolla di Giarratana</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Presidio Slow Food</b><p>La cipolla di Giarratana, dal paese siciliano in provincia di Ragusa, &#232; un Presidio Slow Food.</p></div><div class=\"gc-pl\"><b>Grande e dolce</b><p>Ha bulbi molto grandi, che possono superare il chilo, e un sapore dolce e delicato.</p></div><div class=\"gc-pl\"><b>In cucina</b><p>Si presta a insalate, al forno e ripiena.</p></div></div></div></section></div>"
-  },
-  {
-    "id": "guide",
-    "nome": "Guide",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"guide\"><div class=\"gc-wrap\"><div class=\"gc-2c\"><div><p class=\"gc-eyebrow\">Dal blog</p><h2 class=\"gc-h2\">Guide e ricette</h2><p class=\"gc-lead\">Come usare, coltivare e conservare le cipolle.</p></div><div><ul class=\"gc-list\"><li>Cipolla di Giarratana: la cipolla gigante della Sicilia</li><li>Come coltivare e conservare le cipolle</li></ul><p style=\"margin-top:1.4rem\"><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/blog/\">Leggi le guide</a></p></div></div></div></section></div>"
-  },
-  {
-    "id": "richiesta",
-    "nome": "Richiesta",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"richiesta\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Chiedi disponibilit&#224; e prodotti</h2><p class=\"gc-lead\">Dicci cosa cerchi: cipolle fresche o secche, semi, conserve o guide. Ti rispondiamo con disponibilit&#224; e condizioni.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Contattaci</a></div></section></div>"
-  }
+ {
+  "id": "hero",
+  "nome": "Hero",
+  "enabled": true,
+  "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Cipolla di Giarratana, Sicilia</p><h1 class=\"gc-h1\">La cipolla di Giarratana, <em>grande, dolce e da coltivare.</em></h1><p class=\"gc-lead\">Cipolle fresche e secche, semi per coltivarle, conserve, libri e guide digitali con ricette e consigli di coltivazione.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Chiedi disponibilit&#224;</a><a class=\"gc-btn gc-btn-o\" href=\"#catalogo\">Scopri le categorie</a></div></div><div class=\"ent-cycle\"><div><i class=\"ent-ic\" aria-hidden=\"true\">🌱</i><p><b>Semi</b><span>per coltivare</span></p><a class=\"ent-go\" href=\"__BASEURL__/negozio/categoria/semi/\" aria-label=\"Semi\">&#8594;</a></div><div><i class=\"ent-ic\" aria-hidden=\"true\">🧅</i><p><b>Secchi e freschi</b><span>di stagione</span></p><a class=\"ent-go\" href=\"__BASEURL__/negozio/categoria/secchi/\" aria-label=\"Secchi e freschi\">&#8594;</a></div><div><i class=\"ent-ic\" aria-hidden=\"true\">📖</i><p><b>Libri e guide</b><span>digitali</span></p><a class=\"ent-go\" href=\"__BASEURL__/negozio/categoria/libri/\" aria-label=\"Libri e guide\">&#8594;</a></div></div></div></section></div>"
+ },
+ {
+  "id": "catalogo",
+  "nome": "Catalogo",
+  "enabled": true,
+  "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"catalogo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Il catalogo</p><h2 class=\"gc-h2\">Cosa trovi qui</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Freschi</b><p>Cipolle di Giarratana fresche, in base al raccolto.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/freschi/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Confetture e conserve</b><p>Confetture, agrodolci e sott&#x27;olio di cipolla, da abbinare a formaggi e carni.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/trasformati/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Creme, sughi e condimenti</b><p>Creme e sughi di cipolla per crostini, pasta e secondi.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/condimenti/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Essiccati e snack</b><p>Cipolla essiccata, polvere e chips.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/essiccati/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Semi, piantine e orto</b><p>Semi, piantine e kit per coltivare la cipolla di Giarratana.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/semi/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Libri e guide</b><p>Guide digitali su coltivazione, cucina e conservazione.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/libri/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Box regalo</b><p>Selezioni pronte da regalare o da assaggiare.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/box/\">Vai alla categoria &#8594;</a></p></div></div></div></section></div>"
+ },
+ {
+  "id": "prodotto",
+  "nome": "Il prodotto",
+  "enabled": true,
+  "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"prodotto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Il prodotto</p><h2 class=\"gc-h2\">La cipolla di Giarratana</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Presidio Slow Food</b><p>La cipolla di Giarratana, dal paese siciliano in provincia di Ragusa, &#232; un Presidio Slow Food.</p></div><div class=\"gc-pl\"><b>Grande e dolce</b><p>Ha bulbi molto grandi, che possono superare il chilo, e un sapore dolce e delicato.</p></div><div class=\"gc-pl\"><b>In cucina</b><p>Si presta a insalate, al forno e ripiena.</p></div></div></div></section></div>"
+ },
+ {
+  "id": "guide",
+  "nome": "Guide",
+  "enabled": true,
+  "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"guide\"><div class=\"gc-wrap\"><div class=\"gc-2c\"><div><p class=\"gc-eyebrow\">Dal blog</p><h2 class=\"gc-h2\">Guide e ricette</h2><p class=\"gc-lead\">Come usare, coltivare e conservare le cipolle.</p></div><div><ul class=\"gc-list\"><li>Cipolla di Giarratana: la cipolla gigante della Sicilia</li><li>Come coltivare e conservare le cipolle</li></ul><p style=\"margin-top:1.4rem\"><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/blog/\">Leggi le guide</a></p></div></div></div></section></div>"
+ },
+ {
+  "id": "richiesta",
+  "nome": "Richiesta",
+  "enabled": true,
+  "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"richiesta\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Chiedi disponibilit&#224; e prodotti</h2><p class=\"gc-lead\">Dicci cosa cerchi: cipolle fresche o secche, semi, conserve o guide. Ti rispondiamo con disponibilit&#224; e condizioni.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Contattaci</a></div></section></div>"
+ }
 ]

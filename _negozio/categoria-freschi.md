@@ -1,8 +1,8 @@
 ---
 layout: negozio-categoria
-title: "Cipolla di Giarratana fresca"
+title: "Freschi"
 cid: freschi
 permalink: /negozio/categoria/freschi/
-description: "Cipolla di Giarratana fresca, dolce e mai pungente, disponibile nella stagione del raccolto."
+description: "Freschi - Cipolla Giarratana"
 ref: shop-cat-freschi
 ---

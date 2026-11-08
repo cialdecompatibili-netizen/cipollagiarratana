@@ -1,32 +1,32 @@
 [
-  {
-    "id": "hero",
-    "nome": "Hero",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Giarratana onion, Sicily</p><h1 class=\"gc-h1\">The Giarratana onion, <em>large, sweet and to grow.</em></h1><p class=\"gc-lead\">Fresh and dried onions, seeds to grow them, preserves, digital books and guides with recipes and growing tips.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/contact/\">Ask for availability</a><a class=\"gc-btn gc-btn-o\" href=\"#catalogo\">See the categories</a></div></div><div class=\"ent-cycle\"><div><i class=\"ent-ic\" aria-hidden=\"true\">🌱</i><p><b>Seeds</b><span>to grow</span></p><a class=\"ent-go\" href=\"__BASEURL__/en/shop/category/seeds/\" aria-label=\"Seeds\">&#8594;</a></div><div><i class=\"ent-ic\" aria-hidden=\"true\">🧅</i><p><b>Dried and fresh</b><span>in season</span></p><a class=\"ent-go\" href=\"__BASEURL__/en/shop/category/dried/\" aria-label=\"Dried and fresh\">&#8594;</a></div><div><i class=\"ent-ic\" aria-hidden=\"true\">📖</i><p><b>Books and guides</b><span>digital</span></p><a class=\"ent-go\" href=\"__BASEURL__/en/shop/category/books/\" aria-label=\"Books and guides\">&#8594;</a></div></div></div></section></div>"
-  },
-  {
-    "id": "catalogo",
-    "nome": "Catalogo",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"catalogo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">The catalogue</p><h2 class=\"gc-h2\">What you will find here</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Seeds</b><p>Onion seeds to grow in a garden.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/seeds/\">Go to the category &#8594;</a></p></div><div class=\"gc-pl\"><b>Dried and preserved</b><p>Dried onions, jams and onion preserves.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/dried/\">Go to the category &#8594;</a></p></div><div class=\"gc-pl\"><b>Fresh</b><p>Fresh seasonal onions, depending on harvest and availability.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/fresh/\">Go to the category &#8594;</a></p></div><div class=\"gc-pl\"><b>Books and guides</b><p>Digital guides on growing, storing and recipes.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/books/\">Go to the category &#8594;</a></p></div></div></div></section></div>"
-  },
-  {
-    "id": "prodotto",
-    "nome": "Il prodotto",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"prodotto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">The product</p><h2 class=\"gc-h2\">The Giarratana onion</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Slow Food Presidium</b><p>The Giarratana onion, from the Sicilian town in the province of Ragusa, is a Slow Food Presidium.</p></div><div class=\"gc-pl\"><b>Large and sweet</b><p>It has very large bulbs, which can exceed a kilo, and a sweet, delicate flavour.</p></div><div class=\"gc-pl\"><b>In the kitchen</b><p>It suits salads, roasting and stuffing.</p></div></div></div></section></div>"
-  },
-  {
-    "id": "guide",
-    "nome": "Guide",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"guide\"><div class=\"gc-wrap\"><div class=\"gc-2c\"><div><p class=\"gc-eyebrow\">From the blog</p><h2 class=\"gc-h2\">Guides and recipes</h2><p class=\"gc-lead\">How to use, grow and store onions.</p></div><div><ul class=\"gc-list\"><li>Giarratana onion: Sicily&#39;s giant onion</li><li>How to grow and store onions</li></ul><p style=\"margin-top:1.4rem\"><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/en/blog/\">Read the guides</a></p></div></div></div></section></div>"
-  },
-  {
-    "id": "richiesta",
-    "nome": "Richiesta",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"richiesta\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contact</p><h2 class=\"gc-h2\">Ask for availability and products</h2><p class=\"gc-lead\">Tell us what you are looking for: fresh or dried onions, seeds, preserves or guides. We will reply with availability and conditions.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/contact/\">Contact us</a></div></section></div>"
-  }
+ {
+  "id": "hero",
+  "nome": "Hero",
+  "enabled": true,
+  "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Giarratana onion, Sicily</p><h1 class=\"gc-h1\">The Giarratana onion, <em>large, sweet and to grow.</em></h1><p class=\"gc-lead\">Fresh and dried onions, seeds to grow them, preserves, digital books and guides with recipes and growing tips.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/contact/\">Ask for availability</a><a class=\"gc-btn gc-btn-o\" href=\"#catalogo\">See the categories</a></div></div><div class=\"ent-cycle\"><div><i class=\"ent-ic\" aria-hidden=\"true\">🌱</i><p><b>Seeds</b><span>to grow</span></p><a class=\"ent-go\" href=\"__BASEURL__/en/shop/category/seeds/\" aria-label=\"Seeds\">&#8594;</a></div><div><i class=\"ent-ic\" aria-hidden=\"true\">🧅</i><p><b>Dried and fresh</b><span>in season</span></p><a class=\"ent-go\" href=\"__BASEURL__/en/shop/category/dried/\" aria-label=\"Dried and fresh\">&#8594;</a></div><div><i class=\"ent-ic\" aria-hidden=\"true\">📖</i><p><b>Books and guides</b><span>digital</span></p><a class=\"ent-go\" href=\"__BASEURL__/en/shop/category/books/\" aria-label=\"Books and guides\">&#8594;</a></div></div></div></section></div>"
+ },
+ {
+  "id": "catalogo",
+  "nome": "Catalogo",
+  "enabled": true,
+  "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"catalogo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">The catalogue</p><h2 class=\"gc-h2\">What you will find here</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Fresh</b><p>Fresh Giarratana onions, depending on the harvest.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/fresh/\">Go to category &#8594;</a></p></div><div class=\"gc-pl\"><b>Jams and preserves</b><p>Onion jams, sweet-and-sour and preserves in oil, to pair with cheese and meat.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/jams-preserves/\">Go to category &#8594;</a></p></div><div class=\"gc-pl\"><b>Creams, sauces and condiments</b><p>Onion creams and sauces for crostini, pasta and main courses.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/creams-sauces/\">Go to category &#8594;</a></p></div><div class=\"gc-pl\"><b>Dried and snacks</b><p>Dried onion, powder and chips.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/dried-snacks/\">Go to category &#8594;</a></p></div><div class=\"gc-pl\"><b>Seeds, seedlings and garden</b><p>Seeds, seedlings and kits to grow the Giarratana onion.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/seeds-garden/\">Go to category &#8594;</a></p></div><div class=\"gc-pl\"><b>Books and guides</b><p>Digital guides on growing, cooking and preserving.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/books/\">Go to category &#8594;</a></p></div><div class=\"gc-pl\"><b>Gift boxes</b><p>Ready-made selections to gift or to taste.</p><p><a class=\"gc-link\" href=\"__BASEURL__/en/shop/category/gift-boxes/\">Go to category &#8594;</a></p></div></div></div></section></div>"
+ },
+ {
+  "id": "prodotto",
+  "nome": "Il prodotto",
+  "enabled": true,
+  "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"prodotto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">The product</p><h2 class=\"gc-h2\">The Giarratana onion</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Slow Food Presidium</b><p>The Giarratana onion, from the Sicilian town in the province of Ragusa, is a Slow Food Presidium.</p></div><div class=\"gc-pl\"><b>Large and sweet</b><p>It has very large bulbs, which can exceed a kilo, and a sweet, delicate flavour.</p></div><div class=\"gc-pl\"><b>In the kitchen</b><p>It suits salads, roasting and stuffing.</p></div></div></div></section></div>"
+ },
+ {
+  "id": "guide",
+  "nome": "Guide",
+  "enabled": true,
+  "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"guide\"><div class=\"gc-wrap\"><div class=\"gc-2c\"><div><p class=\"gc-eyebrow\">From the blog</p><h2 class=\"gc-h2\">Guides and recipes</h2><p class=\"gc-lead\">How to use, grow and store onions.</p></div><div><ul class=\"gc-list\"><li>Giarratana onion: Sicily&#39;s giant onion</li><li>How to grow and store onions</li></ul><p style=\"margin-top:1.4rem\"><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/en/blog/\">Read the guides</a></p></div></div></div></section></div>"
+ },
+ {
+  "id": "richiesta",
+  "nome": "Richiesta",
+  "enabled": true,
+  "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"richiesta\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contact</p><h2 class=\"gc-h2\">Ask for availability and products</h2><p class=\"gc-lead\">Tell us what you are looking for: fresh or dried onions, seeds, preserves or guides. We will reply with availability and conditions.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/contact/\">Contact us</a></div></section></div>"
+ }
 ]

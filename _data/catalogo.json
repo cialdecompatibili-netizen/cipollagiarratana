@@ -1,207 +1,571 @@
 {
-  "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
-  "categorie": [
-    {
-      "nome": "Semi di cipolla di Giarratana",
-      "id": "semi",
-      "icona": "🧅",
-      "tr": {
-        "en": {
-          "nome": "Giarratana onion seeds"
-        }
-      }
-    },
-    {
-      "nome": "Cipolla di Giarratana secca e conservata",
-      "id": "secchi",
-      "icona": "🧅",
-      "tr": {
-        "en": {
-          "nome": "Dried and preserved Giarratana onion"
-        }
-      }
-    },
-    {
-      "nome": "Cipolla di Giarratana fresca",
-      "id": "freschi",
-      "icona": "🧅",
-      "tr": {
-        "en": {
-          "nome": "Fresh Giarratana onion"
-        }
-      }
-    },
-    {
-      "nome": "Guide sulla cipolla di Giarratana",
-      "id": "libri",
-      "icona": "🧅",
-      "tr": {
-        "en": {
-          "nome": "Giarratana onion guides"
-        }
-      }
+ "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
+ "categorie": [
+  {
+   "nome": "Freschi",
+   "id": "freschi",
+   "icona": "🧅",
+   "tr": {
+    "en": {
+     "nome": "Fresh"
     }
-  ],
-  "prodotti": [
-    {
-      "tipo": "fisico",
-      "id": "semi-cipolla-giarratana",
-      "nome": "Semi di cipolla di Giarratana",
-      "categoria": "semi",
-      "prezzo_centesimi": 300,
-      "varianti_titolo": "Numero di semi",
-      "varianti": [
-        {
-          "codice": "50",
-          "etichetta": "50 semi",
-          "prezzo_centesimi": 300,
-          "tr": {
-            "en": "50 seeds"
-          }
-        },
-        {
-          "codice": "100",
-          "etichetta": "100 semi",
-          "prezzo_centesimi": 500,
-          "tr": {
-            "en": "100 seeds"
-          }
-        },
-        {
-          "codice": "150",
-          "etichetta": "150 semi",
-          "prezzo_centesimi": 700,
-          "tr": {
-            "en": "150 seeds"
-          }
-        },
-        {
-          "codice": "200",
-          "etichetta": "200 semi",
-          "prezzo_centesimi": 900,
-          "tr": {
-            "en": "200 seeds"
-          }
-        },
-        {
-          "codice": "250",
-          "etichetta": "250 semi",
-          "prezzo_centesimi": 1100,
-          "tr": {
-            "en": "250 seeds"
-          }
-        },
-        {
-          "codice": "300",
-          "etichetta": "300 semi",
-          "prezzo_centesimi": 1300,
-          "tr": {
-            "en": "300 seeds"
-          }
-        },
-        {
-          "codice": "350",
-          "etichetta": "350 semi",
-          "prezzo_centesimi": 1500,
-          "tr": {
-            "en": "350 seeds"
-          }
-        },
-        {
-          "codice": "400",
-          "etichetta": "400 semi",
-          "prezzo_centesimi": 1700,
-          "tr": {
-            "en": "400 seeds"
-          }
-        },
-        {
-          "codice": "450",
-          "etichetta": "450 semi",
-          "prezzo_centesimi": 1900,
-          "tr": {
-            "en": "450 seeds"
-          }
-        },
-        {
-          "codice": "500",
-          "etichetta": "500 semi",
-          "prezzo_centesimi": 2100,
-          "tr": {
-            "en": "500 seeds"
-          }
-        }
-      ],
-      "descrizione": "Semi di cipolla di Giarratana, Presidio Slow Food del Ragusano, da seminare in semenzaio e trapiantare nel tuo orto. Scegli la quantità.",
-      "descrizione_completa": "Semi di cipolla di Giarratana, Presidio Slow Food dell'altopiano ibleo, in bustine da 50 a 500 semi.\nSi semina in semenzaio da fine ottobre e si trapianta tra febbraio e marzo; la raccolta arriva in estate.\nÈ una cipolla dolce e mai pungente, dal bulbo grande.",
-      "immagine": "assets/images/prodotti/semi-cipolla-giarratana.webp",
-      "icona": "🧅",
-      "visibile": true,
-      "tr": {
-        "en": {
-          "nome": "Giarratana onion seeds",
-          "varianti_titolo": "Number of seeds",
-          "descrizione": "Giarratana onion seeds, a Slow Food Presidium from the Ragusa area, to sow in a seedbed and transplant into your garden. Choose the quantity.",
-          "descrizione_completa": "Giarratana onion seeds, a Slow Food Presidium from the Hyblaean plateau, in packets of 50 to 500 seeds.\nSow in a seedbed from late October and transplant between February and March; harvest comes in summer.\nA sweet, never pungent onion with a large bulb."
-        }
-      }
-    },
-    {
-      "tipo": "fisico",
-      "id": "confettura-cipolla-giarratana",
-      "nome": "Confettura di cipolla di Giarratana",
-      "categoria": "secchi",
-      "prezzo_centesimi": 650,
-      "descrizione": "Confettura dolce di cipolla di Giarratana, da abbinare a formaggi e carni.",
-      "descrizione_completa": "Confettura dolce di cipolla di Giarratana, Presidio Slow Food.\nOttima con formaggi stagionati e carni.",
-      "immagine": "assets/images/prodotti/confettura-cipolla-giarratana.webp",
-      "icona": "🧅",
-      "visibile": true,
-      "tr": {
-        "en": {
-          "nome": "Giarratana onion jam",
-          "descrizione": "Sweet Giarratana onion jam, perfect with cheese and meat.",
-          "descrizione_completa": "Sweet jam made with Giarratana onion, a Slow Food Presidium.\nGreat with aged cheese and meat."
-        }
-      }
-    },
-    {
-      "tipo": "fisico",
-      "id": "cipolla-giarratana-fresca",
-      "nome": "Cipolle di Giarratana fresche",
-      "categoria": "freschi",
-      "prezzo_centesimi": 900,
-      "descrizione": "Cipolle di Giarratana fresche, dolci e mai pungenti, disponibili nella stagione del raccolto.",
-      "descrizione_completa": "Cipolle di Giarratana fresche, dolci e mai pungenti, dal bulbo grande.\nDisponibili da fine luglio a fine agosto, in base al raccolto. Foto: Elyparker, CC BY-SA 4.0, Wikimedia Commons.",
-      "immagine": "assets/images/prodotti/cipolla-giarratana-fresca.webp",
-      "icona": "🧅",
-      "visibile": true,
-      "tr": {
-        "en": {
-          "nome": "Fresh Giarratana onions",
-          "descrizione": "Fresh Giarratana onions, sweet and never pungent, available in the harvest season.",
-          "descrizione_completa": "Fresh Giarratana onions, sweet and never pungent, with a large bulb.\nAvailable from late July to late August, depending on the harvest. Photo: Elyparker, CC BY-SA 4.0, Wikimedia Commons."
-        }
-      }
-    },
-    {
-      "tipo": "digitale",
-      "id": "guida-coltivazione-giarratana",
-      "nome": "Guida alla coltivazione della cipolla di Giarratana",
-      "categoria": "libri",
-      "prezzo_centesimi": 900,
-      "descrizione": "Guida digitale per coltivare e conservare la cipolla di Giarratana.",
-      "descrizione_completa": "Guida in formato digitale per coltivare e conservare la cipolla di Giarratana: semina, trapianto, raccolta.",
-      "immagine": "assets/images/prodotti/guida-coltivazione-giarratana.webp",
-      "icona": "🧅",
-      "visibile": true,
-      "tr": {
-        "en": {
-          "nome": "Giarratana onion growing guide",
-          "descrizione": "Digital guide to growing and storing the Giarratana onion.",
-          "descrizione_completa": "Digital guide to growing and storing the Giarratana onion: sowing, transplanting, harvest."
-        }
-      }
+   }
+  },
+  {
+   "nome": "Confetture e conserve",
+   "id": "trasformati",
+   "icona": "🍯",
+   "tr": {
+    "en": {
+     "nome": "Jams and preserves"
     }
-  ]
+   }
+  },
+  {
+   "nome": "Creme, sughi e condimenti",
+   "id": "condimenti",
+   "icona": "🥣",
+   "tr": {
+    "en": {
+     "nome": "Creams, sauces and condiments"
+    }
+   }
+  },
+  {
+   "nome": "Essiccati e snack",
+   "id": "essiccati",
+   "icona": "🌾",
+   "tr": {
+    "en": {
+     "nome": "Dried and snacks"
+    }
+   }
+  },
+  {
+   "nome": "Semi, piantine e orto",
+   "id": "semi",
+   "icona": "🌱",
+   "tr": {
+    "en": {
+     "nome": "Seeds, seedlings and garden"
+    }
+   }
+  },
+  {
+   "nome": "Libri e guide",
+   "id": "libri",
+   "icona": "📘",
+   "tr": {
+    "en": {
+     "nome": "Books and guides"
+    }
+   }
+  },
+  {
+   "nome": "Box regalo",
+   "id": "box",
+   "icona": "🎁",
+   "tr": {
+    "en": {
+     "nome": "Gift boxes"
+    }
+   }
+  }
+ ],
+ "prodotti": [
+  {
+   "tipo": "fisico",
+   "id": "cipolla-fresca-1kg",
+   "nome": "Cipolla di Giarratana fresca - 1 kg",
+   "categoria": "freschi",
+   "prezzo_centesimi": 490,
+   "descrizione": "Cipolle grandi e dolci, vendute a peso, ottime crude in insalata e al forno.",
+   "descrizione_completa": "Cipolle grandi e dolci, vendute a peso, ottime crude in insalata e al forno.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Fresh Giarratana onion - 1 kg",
+     "descrizione": "Large, sweet onions sold by weight, great raw in salads and baked.",
+     "descrizione_completa": "Large, sweet onions sold by weight, great raw in salads and baked."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "cipolla-fresca-5kg",
+   "nome": "Cipolla di Giarratana fresca - cassetta da 5 kg",
+   "categoria": "freschi",
+   "prezzo_centesimi": 1990,
+   "descrizione": "Cassetta da 5 kg per la famiglia o per la cucina di un locale.",
+   "descrizione_completa": "Cassetta da 5 kg per la famiglia o per la cucina di un locale.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Fresh Giarratana onion - 5 kg crate",
+     "descrizione": "A 5 kg crate for the family or a restaurant kitchen.",
+     "descrizione_completa": "A 5 kg crate for the family or a restaurant kitchen."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "cipolla-fresca-10kg",
+   "nome": "Cipolla di Giarratana fresca - cassetta da 10 kg",
+   "categoria": "freschi",
+   "prezzo_centesimi": 3490,
+   "descrizione": "Cassetta da 10 kg, la scelta più conveniente per chi la usa spesso.",
+   "descrizione_completa": "Cassetta da 10 kg, la scelta più conveniente per chi la usa spesso.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Fresh Giarratana onion - 10 kg crate",
+     "descrizione": "A 10 kg crate, the best value for frequent users.",
+     "descrizione_completa": "A 10 kg crate, the best value for frequent users."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "cipolla-gigante-1pz",
+   "nome": "Cipolla gigante selezionata - 1 pezzo",
+   "categoria": "freschi",
+   "prezzo_centesimi": 550,
+   "descrizione": "Un singolo esemplare scelto tra i più grandi, anche da regalo.",
+   "descrizione_completa": "Un singolo esemplare scelto tra i più grandi, anche da regalo.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Selected giant onion - 1 piece",
+     "descrizione": "A single specimen picked among the largest, also as a gift.",
+     "descrizione_completa": "A single specimen picked among the largest, also as a gift."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "confettura-220",
+   "nome": "Confettura di cipolla di Giarratana - 220 g",
+   "categoria": "trasformati",
+   "prezzo_centesimi": 650,
+   "descrizione": "Confettura dolce di cipolla, ideale con formaggi stagionati e carni arrosto.",
+   "descrizione_completa": "Confettura dolce di cipolla, ideale con formaggi stagionati e carni arrosto.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Giarratana onion jam - 220 g",
+     "descrizione": "Sweet onion jam, ideal with aged cheeses and roast meats.",
+     "descrizione_completa": "Sweet onion jam, ideal with aged cheeses and roast meats."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "confettura-peperoncino-220",
+   "nome": "Confettura di cipolla e peperoncino - 220 g",
+   "categoria": "trasformati",
+   "prezzo_centesimi": 690,
+   "descrizione": "Confettura di cipolla con una nota piccante, per taglieri e panini.",
+   "descrizione_completa": "Confettura di cipolla con una nota piccante, per taglieri e panini.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Onion and chili jam - 220 g",
+     "descrizione": "Onion jam with a spicy note, for cheese boards and sandwiches.",
+     "descrizione_completa": "Onion jam with a spicy note, for cheese boards and sandwiches."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "confettura-vino-220",
+   "nome": "Confettura di cipolla al vino rosso - 220 g",
+   "categoria": "trasformati",
+   "prezzo_centesimi": 690,
+   "descrizione": "Cipolla cotta lentamente nel vino rosso, per carni e formaggi.",
+   "descrizione_completa": "Cipolla cotta lentamente nel vino rosso, per carni e formaggi.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Red wine onion jam - 220 g",
+     "descrizione": "Onion slowly cooked in red wine, for meats and cheeses.",
+     "descrizione_completa": "Onion slowly cooked in red wine, for meats and cheeses."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "agrodolce-280",
+   "nome": "Cipolline in agrodolce - 280 g",
+   "categoria": "trasformati",
+   "prezzo_centesimi": 750,
+   "descrizione": "Cipolle in agrodolce da antipasto e da dispensa.",
+   "descrizione_completa": "Cipolle in agrodolce da antipasto e da dispensa.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Sweet-and-sour onions - 280 g",
+     "descrizione": "Sweet-and-sour onions for appetizers and the pantry.",
+     "descrizione_completa": "Sweet-and-sour onions for appetizers and the pantry."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "sottolio-280",
+   "nome": "Cipolla di Giarratana sott'olio - 280 g",
+   "categoria": "trasformati",
+   "prezzo_centesimi": 790,
+   "descrizione": "Fette di cipolla sott'olio, pronte da servire con i salumi.",
+   "descrizione_completa": "Fette di cipolla sott'olio, pronte da servire con i salumi.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Giarratana onion in oil - 280 g",
+     "descrizione": "Onion slices in oil, ready to serve with cured meats.",
+     "descrizione_completa": "Onion slices in oil, ready to serve with cured meats."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "crema-190",
+   "nome": "Crema di cipolla di Giarratana - 190 g",
+   "categoria": "condimenti",
+   "prezzo_centesimi": 690,
+   "descrizione": "Crema spalmabile per crostini, pasta e secondi.",
+   "descrizione_completa": "Crema spalmabile per crostini, pasta e secondi.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Giarratana onion cream - 190 g",
+     "descrizione": "Spreadable cream for crostini, pasta and main courses.",
+     "descrizione_completa": "Spreadable cream for crostini, pasta and main courses."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "sugo-300",
+   "nome": "Sugo di cipolla e pomodoro - 300 g",
+   "categoria": "condimenti",
+   "prezzo_centesimi": 650,
+   "descrizione": "Sugo pronto con cipolla dolce, da condire la pasta in pochi minuti.",
+   "descrizione_completa": "Sugo pronto con cipolla dolce, da condire la pasta in pochi minuti.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Onion and tomato sauce - 300 g",
+     "descrizione": "Ready sauce with sweet onion, to dress pasta in minutes.",
+     "descrizione_completa": "Ready sauce with sweet onion, to dress pasta in minutes."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "pesto-130",
+   "nome": "Pesto di cipolla e mandorle - 130 g",
+   "categoria": "condimenti",
+   "prezzo_centesimi": 690,
+   "descrizione": "Pesto di cipolla e mandorle siciliane, per bruschette e pasta.",
+   "descrizione_completa": "Pesto di cipolla e mandorle siciliane, per bruschette e pasta.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Onion and almond pesto - 130 g",
+     "descrizione": "Onion and Sicilian almond pesto, for bruschetta and pasta.",
+     "descrizione_completa": "Onion and Sicilian almond pesto, for bruschetta and pasta."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "salsa-formaggi-120",
+   "nome": "Salsa di cipolla per formaggi - 120 g",
+   "categoria": "condimenti",
+   "prezzo_centesimi": 690,
+   "descrizione": "Salsa dolce per accompagnare formaggi freschi e stagionati.",
+   "descrizione_completa": "Salsa dolce per accompagnare formaggi freschi e stagionati.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Onion sauce for cheese - 120 g",
+     "descrizione": "Sweet sauce to go with fresh and aged cheeses.",
+     "descrizione_completa": "Sweet sauce to go with fresh and aged cheeses."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "essiccata-60",
+   "nome": "Cipolla essiccata - 60 g",
+   "categoria": "essiccati",
+   "prezzo_centesimi": 550,
+   "descrizione": "Fettine di cipolla essiccate, da reidratare in zuppe e sughi.",
+   "descrizione_completa": "Fettine di cipolla essiccate, da reidratare in zuppe e sughi.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Dried onion - 60 g",
+     "descrizione": "Dried onion slices to rehydrate in soups and sauces.",
+     "descrizione_completa": "Dried onion slices to rehydrate in soups and sauces."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "polvere-50",
+   "nome": "Cipolla in polvere - 50 g",
+   "categoria": "essiccati",
+   "prezzo_centesimi": 590,
+   "descrizione": "Polvere di cipolla per marinature, impanature e salse.",
+   "descrizione_completa": "Polvere di cipolla per marinature, impanature e salse.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Onion powder - 50 g",
+     "descrizione": "Onion powder for marinades, breading and sauces.",
+     "descrizione_completa": "Onion powder for marinades, breading and sauces."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "chips-40",
+   "nome": "Chips di cipolla - 40 g",
+   "categoria": "essiccati",
+   "prezzo_centesimi": 490,
+   "descrizione": "Chips croccanti di cipolla, da aperitivo.",
+   "descrizione_completa": "Chips croccanti di cipolla, da aperitivo.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Onion chips - 40 g",
+     "descrizione": "Crunchy onion chips for aperitifs.",
+     "descrizione_completa": "Crunchy onion chips for aperitifs."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "semi-bustina",
+   "nome": "Semi di cipolla di Giarratana - bustina",
+   "categoria": "semi",
+   "prezzo_centesimi": 350,
+   "descrizione": "Bustina di semi per l'orto, con istruzioni di semina.",
+   "descrizione_completa": "Bustina di semi per l'orto, con istruzioni di semina.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Giarratana onion seeds - packet",
+     "descrizione": "A packet of seeds for the garden, with sowing instructions.",
+     "descrizione_completa": "A packet of seeds for the garden, with sowing instructions."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "semi-10g",
+   "nome": "Semi di cipolla di Giarratana - 10 g",
+   "categoria": "semi",
+   "prezzo_centesimi": 590,
+   "descrizione": "Confezione più grande di semi, per chi coltiva su più file.",
+   "descrizione_completa": "Confezione più grande di semi, per chi coltiva su più file.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Giarratana onion seeds - 10 g",
+     "descrizione": "A larger pack of seeds, for growing several rows.",
+     "descrizione_completa": "A larger pack of seeds, for growing several rows."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "piantine-12",
+   "nome": "Piantine di cipolla - 12 pezzi",
+   "categoria": "semi",
+   "prezzo_centesimi": 990,
+   "descrizione": "Piantine pronte da trapiantare, in base alla stagione.",
+   "descrizione_completa": "Piantine pronte da trapiantare, in base alla stagione.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Onion seedlings - 12 pieces",
+     "descrizione": "Seedlings ready to transplant, depending on the season.",
+     "descrizione_completa": "Seedlings ready to transplant, depending on the season."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "kit-coltiva",
+   "nome": "Kit per coltivare la cipolla",
+   "categoria": "semi",
+   "prezzo_centesimi": 1990,
+   "descrizione": "Semi, vaso e guida per iniziare anche su un balcone.",
+   "descrizione_completa": "Semi, vaso e guida per iniziare anche su un balcone.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Onion growing kit",
+     "descrizione": "Seeds, pot and guide to start even on a balcony.",
+     "descrizione_completa": "Seeds, pot and guide to start even on a balcony."
+    }
+   }
+  },
+  {
+   "tipo": "digitale",
+   "id": "guida-coltivazione",
+   "nome": "Guida alla coltivazione della cipolla di Giarratana",
+   "categoria": "libri",
+   "prezzo_centesimi": 690,
+   "descrizione": "Guida digitale: semina, trapianto, cura e raccolta.",
+   "descrizione_completa": "Guida digitale: semina, trapianto, cura e raccolta.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Guide to growing the Giarratana onion",
+     "descrizione": "Digital guide: sowing, transplanting, care and harvest.",
+     "descrizione_completa": "Digital guide: sowing, transplanting, care and harvest."
+    }
+   }
+  },
+  {
+   "tipo": "digitale",
+   "id": "ricettario",
+   "nome": "Ricettario della cipolla di Giarratana",
+   "categoria": "libri",
+   "prezzo_centesimi": 690,
+   "descrizione": "Ricettario digitale con ricette semplici dall'antipasto al dolce.",
+   "descrizione_completa": "Ricettario digitale con ricette semplici dall'antipasto al dolce.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Giarratana onion recipe book",
+     "descrizione": "Digital recipe book with simple recipes from starter to dessert.",
+     "descrizione_completa": "Digital recipe book with simple recipes from starter to dessert."
+    }
+   }
+  },
+  {
+   "tipo": "digitale",
+   "id": "guida-conservare",
+   "nome": "Guida alle conserve di cipolla",
+   "categoria": "libri",
+   "prezzo_centesimi": 590,
+   "descrizione": "Guida digitale per fare in casa confetture e sott'olio.",
+   "descrizione_completa": "Guida digitale per fare in casa confetture e sott'olio.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Guide to onion preserves",
+     "descrizione": "Digital guide to making jams and preserves in oil at home.",
+     "descrizione_completa": "Digital guide to making jams and preserves in oil at home."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "box-assaggio",
+   "nome": "Box assaggio",
+   "categoria": "box",
+   "prezzo_centesimi": 2990,
+   "descrizione": "Confettura, crema, agrodolce e chips in un unico box.",
+   "descrizione_completa": "Confettura, crema, agrodolce e chips in un unico box.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Tasting box",
+     "descrizione": "Jam, cream, sweet-and-sour onions and chips in a single box.",
+     "descrizione_completa": "Jam, cream, sweet-and-sour onions and chips in a single box."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "box-cucina",
+   "nome": "Box cucina",
+   "categoria": "box",
+   "prezzo_centesimi": 3990,
+   "descrizione": "Sugo, pesto, polvere, crema e confettura per cucinare con la cipolla.",
+   "descrizione_completa": "Sugo, pesto, polvere, crema e confettura per cucinare con la cipolla.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Kitchen box",
+     "descrizione": "Sauce, pesto, powder, cream and jam to cook with onion.",
+     "descrizione_completa": "Sauce, pesto, powder, cream and jam to cook with onion."
+    }
+   }
+  },
+  {
+   "tipo": "fisico",
+   "id": "box-natale",
+   "nome": "Box regalo di Natale",
+   "categoria": "box",
+   "prezzo_centesimi": 4990,
+   "descrizione": "Selezione di conserve e creme in confezione regalo.",
+   "descrizione_completa": "Selezione di conserve e creme in confezione regalo.",
+   "immagine": "",
+   "icona": "",
+   "visibile": true,
+   "tr": {
+    "en": {
+     "nome": "Christmas gift box",
+     "descrizione": "A selection of preserves and creams in a gift pack.",
+     "descrizione_completa": "A selection of preserves and creams in a gift pack."
+    }
+   }
+  }
+ ]
 }

@@ -1,14 +1,20 @@
 ﻿# English dropdown menus (empty = none). Each key must be IDENTICAL to a title in navigation.yml of this folder.
 
 Products:
-  - title: "Giarratana onion seeds"
-    url: /en/shop/category/seeds/
-  - title: "Dried and preserved Giarratana onion"
-    url: /en/shop/category/dried/
-  - title: "Fresh Giarratana onion"
+  - title: "Fresh"
     url: /en/shop/category/fresh/
-  - title: "Giarratana onion guides"
+  - title: "Jams and preserves"
+    url: /en/shop/category/jams-preserves/
+  - title: "Creams, sauces and condiments"
+    url: /en/shop/category/creams-sauces/
+  - title: "Dried and snacks"
+    url: /en/shop/category/dried-snacks/
+  - title: "Seeds, seedlings and garden"
+    url: /en/shop/category/seeds-garden/
+  - title: "Books and guides"
     url: /en/shop/category/books/
+  - title: "Gift boxes"
+    url: /en/shop/category/gift-boxes/
   - divider: true
   - title: "The whole shop"
     url: /en/shop/

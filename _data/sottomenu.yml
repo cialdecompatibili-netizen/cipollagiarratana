@@ -33,14 +33,20 @@
 # =====================================================================================
 
 Prodotti:
-  - title: "Semi di cipolla di Giarratana"
-    url: /negozio/categoria/semi/
-  - title: "Cipolla di Giarratana secca e conservata"
-    url: /negozio/categoria/secchi/
-  - title: "Cipolla di Giarratana fresca"
+  - title: "Freschi"
     url: /negozio/categoria/freschi/
-  - title: "Guide sulla cipolla di Giarratana"
+  - title: "Confetture e conserve"
+    url: /negozio/categoria/trasformati/
+  - title: "Creme, sughi e condimenti"
+    url: /negozio/categoria/condimenti/
+  - title: "Essiccati e snack"
+    url: /negozio/categoria/essiccati/
+  - title: "Semi, piantine e orto"
+    url: /negozio/categoria/semi/
+  - title: "Libri e guide"
     url: /negozio/categoria/libri/
+  - title: "Box regalo"
+    url: /negozio/categoria/box/
   - divider: true
   - title: "Tutto il negozio"
     url: /negozio/

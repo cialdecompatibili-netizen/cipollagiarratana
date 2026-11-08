@@ -1,8 +1,8 @@
 ---
 layout: negozio-categoria
-title: "Semi di cipolla di Giarratana"
+title: "Semi, piantine e orto"
 cid: semi
 permalink: /negozio/categoria/semi/
-description: "Semi di cipolla di Giarratana, Presidio Slow Food del Ragusano: bustine per coltivarla nel tuo orto."
+description: "Semi, piantine e orto - Cipolla Giarratana"
 ref: shop-cat-semi
 ---

@@ -1,9 +1,9 @@
 ---
 layout: negozio-categoria
-title: "Giarratana onion guides"
+title: "Books and guides"
 cid: libri
 permalink: /en/shop/category/books/
-description: "Guides to the Giarratana onion: growing, storing and recipes."
+description: "Books and guides - Cipolla Giarratana"
 lang: en
 locale: en
 ref: shop-cat-libri
