@@ -81,7 +81,7 @@
    "prezzo_centesimi": 490,
    "descrizione": "Cipolle grandi e dolci, vendute a peso, ottime crude in insalata e al forno.",
    "descrizione_completa": "Cipolle grandi e dolci, vendute a peso, ottime crude in insalata e al forno.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/cipolla-fresca-1kg.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -100,7 +100,7 @@
    "prezzo_centesimi": 1990,
    "descrizione": "Cassetta da 5 kg per la famiglia o per la cucina di un locale.",
    "descrizione_completa": "Cassetta da 5 kg per la famiglia o per la cucina di un locale.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/cipolla-fresca-5kg.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -119,7 +119,7 @@
    "prezzo_centesimi": 3490,
    "descrizione": "Cassetta da 10 kg, la scelta più conveniente per chi la usa spesso.",
    "descrizione_completa": "Cassetta da 10 kg, la scelta più conveniente per chi la usa spesso.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/cipolla-fresca-10kg.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -138,7 +138,7 @@
    "prezzo_centesimi": 550,
    "descrizione": "Un singolo esemplare scelto tra i più grandi, anche da regalo.",
    "descrizione_completa": "Un singolo esemplare scelto tra i più grandi, anche da regalo.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/cipolla-gigante-1pz.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -157,7 +157,7 @@
    "prezzo_centesimi": 650,
    "descrizione": "Confettura dolce di cipolla, ideale con formaggi stagionati e carni arrosto.",
    "descrizione_completa": "Confettura dolce di cipolla, ideale con formaggi stagionati e carni arrosto.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/confettura-220.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -176,7 +176,7 @@
    "prezzo_centesimi": 690,
    "descrizione": "Confettura di cipolla con una nota piccante, per taglieri e panini.",
    "descrizione_completa": "Confettura di cipolla con una nota piccante, per taglieri e panini.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/confettura-peperoncino-220.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -195,7 +195,7 @@
    "prezzo_centesimi": 690,
    "descrizione": "Cipolla cotta lentamente nel vino rosso, per carni e formaggi.",
    "descrizione_completa": "Cipolla cotta lentamente nel vino rosso, per carni e formaggi.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/confettura-vino-220.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -214,7 +214,7 @@
    "prezzo_centesimi": 750,
    "descrizione": "Cipolle in agrodolce da antipasto e da dispensa.",
    "descrizione_completa": "Cipolle in agrodolce da antipasto e da dispensa.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/agrodolce-280.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -233,7 +233,7 @@
    "prezzo_centesimi": 790,
    "descrizione": "Fette di cipolla sott'olio, pronte da servire con i salumi.",
    "descrizione_completa": "Fette di cipolla sott'olio, pronte da servire con i salumi.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/sottolio-280.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -252,7 +252,7 @@
    "prezzo_centesimi": 690,
    "descrizione": "Crema spalmabile per crostini, pasta e secondi.",
    "descrizione_completa": "Crema spalmabile per crostini, pasta e secondi.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/crema-190.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -271,7 +271,7 @@
    "prezzo_centesimi": 650,
    "descrizione": "Sugo pronto con cipolla dolce, da condire la pasta in pochi minuti.",
    "descrizione_completa": "Sugo pronto con cipolla dolce, da condire la pasta in pochi minuti.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/sugo-300.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -290,7 +290,7 @@
    "prezzo_centesimi": 690,
    "descrizione": "Pesto di cipolla e mandorle siciliane, per bruschette e pasta.",
    "descrizione_completa": "Pesto di cipolla e mandorle siciliane, per bruschette e pasta.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/pesto-130.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -309,7 +309,7 @@
    "prezzo_centesimi": 690,
    "descrizione": "Salsa dolce per accompagnare formaggi freschi e stagionati.",
    "descrizione_completa": "Salsa dolce per accompagnare formaggi freschi e stagionati.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/salsa-formaggi-120.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -328,7 +328,7 @@
    "prezzo_centesimi": 550,
    "descrizione": "Fettine di cipolla essiccate, da reidratare in zuppe e sughi.",
    "descrizione_completa": "Fettine di cipolla essiccate, da reidratare in zuppe e sughi.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/essiccata-60.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -347,7 +347,7 @@
    "prezzo_centesimi": 590,
    "descrizione": "Polvere di cipolla per marinature, impanature e salse.",
    "descrizione_completa": "Polvere di cipolla per marinature, impanature e salse.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/polvere-50.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -366,7 +366,7 @@
    "prezzo_centesimi": 490,
    "descrizione": "Chips croccanti di cipolla, da aperitivo.",
    "descrizione_completa": "Chips croccanti di cipolla, da aperitivo.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/chips-40.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -385,7 +385,7 @@
    "prezzo_centesimi": 350,
    "descrizione": "Bustina di semi per l'orto, con istruzioni di semina.",
    "descrizione_completa": "Bustina di semi per l'orto, con istruzioni di semina.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/semi-bustina.webp",
    "icona": "",
    "visibile": true,
    "tr": {
@@ -404,7 +404,7 @@
    "prezzo_centesimi": 590,
    "descrizione": "Confezione più grande di semi, per chi coltiva su più file.",
    "descrizione_completa": "Confezione più grande di semi, per chi coltiva su più file.",
-   "immagine": "",
+   "immagine": "assets/images/prodotti/semi-10g.webp",
    "icona": "",
    "visibile": true,
    "tr": {
